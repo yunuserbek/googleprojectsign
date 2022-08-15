@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/2u/AndroidStudioProjects/googleprojectsign/app/src/main/res/drawable/googlelogo.xml" value="0.1115" />
+        <entry key="..\:/Users/2u/AndroidStudioProjects/googleprojectsign/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1115" />
         <entry key="..\:/Users/2u/AndroidStudioProjects/googleprojectsign/app/src/main/res/drawable/ic_email.xml" value="0.1115" />
         <entry key="..\:/Users/2u/AndroidStudioProjects/googleprojectsign/app/src/main/res/layout/activity_google_sign_in.xml" value="0.2" />
         <entry key="..\:/Users/2u/AndroidStudioProjects/googleprojectsign/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/2u/AndroidStudioProjects/googleprojectsign/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>

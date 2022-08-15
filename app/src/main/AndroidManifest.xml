@@ -14,7 +14,10 @@
         android:theme="@style/Theme.Googleprojectsign"
         tools:targetApi="31">
         <activity
-            android:name=".GoogleSignInActivity"
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GoogleOut"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
